@@ -1,0 +1,208 @@
+id,deskripsi_pengguna,label_rekomendasi,preprocessed
+1,butuh laptop untuk desain grafis dan edit video,multimedia,butuh laptop desain grafis edit video
+2,cari laptop ringan buat kerja kantoran dan browsing internet,office,cari laptop ringan kerja kantoran browsing internet
+3,saya butuh laptop gaming dengan performa tinggi dan kartu grafis dedicated,gaming,butuh laptop gaming performa kartu grafis dedicated
+4,ingin laptop murah untuk keperluan mengetik dan nonton film,office,laptop murah keperluan mengetik nonton film
+5,perlu laptop untuk programming dan multitasking aplikasi berat,programming,laptop programming multitasking aplikasi berat
+6,butuh laptop tipis dan ringan untuk dibawa ke kampus,office,butuh laptop tipis ringan dibawa kampus
+7,"laptop yang cocok untuk animasi, rendering 3D, dan proyek desain arsitektur",multimedia,laptop cocok animasi rendering 3d proyek desain arsitektur
+8,cari laptop ringan untuk kuliah dan ngetik,office,cari laptop ringan kuliah ngetik
+9,saya ingin laptop kuat untuk main game berat,gaming,laptop kuat main game berat
+10,butuh laptop untuk coding dan multitasking,programming,butuh laptop coding multitasking
+11,mencari laptop dengan baterai tahan lama dan nyaman untuk zoom meeting,office,mencari laptop baterai tahan nyaman zoom meeting
+12,butuh laptop performa tinggi untuk render video,multimedia,butuh laptop performa render video
+13,saya perlu laptop yang bisa main Valorant dan FIFA,gaming,laptop main valorant fifa
+14,ingin laptop untuk skripsi dan mengolah data excel,office,laptop skripsi mengolah data excel
+15,laptop untuk pengembangan aplikasi dan debugging,programming,laptop pengembangan aplikasi debugging
+16,cari laptop untuk desain UI/UX dan edit foto,multimedia,cari laptop desain uiux edit foto
+17,saya ingin laptop untuk main game berat,gaming,laptop main game berat
+18,butuh laptop untuk coding dan multitasking,gaming,butuh laptop coding multitasking
+19,mencari laptop yang enteng untuk keperluan desain grafis dan editing,workstation,mencari laptop enteng keperluan desain grafis editing
+20,butuh perangkat yang cocok untuk edit video dan membuat desain,multimedia,butuh perangkat cocok edit video desain
+21,laptop untuk desain grafis yang ringan dan mudah dibawa,workstation,laptop desain grafis ringan mudah dibawa
+22,laptop yang ringan dan mudah dibawa untuk desain grafis,workstation,laptop ringan mudah dibawa desain grafis
+23,Saya ingin laptop yang dapat digunakan untuk bermain game berat.,multimedia,laptop bermain game berat
+24,Saya butuh laptop yang kuat untuk bermain game berat seperti GTA V dan Call of Duty.,gaming,butuh laptop kuat bermain game berat gta v call of duty
+25,Mencari laptop gaming dengan spesifikasi tinggi dan performa cepat.,gaming,mencari laptop gaming spesifikasi performa cepat
+26,Ingin laptop yang bisa menjalankan game AAA tanpa lag.,gaming,laptop menjalankan game aaa lag
+27,Laptop dengan kartu grafis bagus untuk main game FPS dan RPG.,gaming,laptop kartu grafis bagus main game fps rpg
+28,Butuh laptop dengan prosesor kencang dan RAM besar untuk bermain game online.,gaming,butuh laptop prosesor kencang ram bermain game online
+29,Mencari laptop yang punya pendingin bagus agar tidak cepat panas saat main game.,gaming,mencari laptop pendingin bagus cepat panas main game
+30,Laptop gaming dengan refresh rate tinggi untuk pengalaman bermain lebih mulus.,gaming,laptop gaming refresh rate pengalaman bermain mulus
+31,Saya ingin laptop gaming yang tetap ringan dan portabel.,gaming,laptop gaming ringan portabel
+32,Laptop yang bisa memainkan game dengan grafis ultra tanpa frame drop.,gaming,laptop memainkan game grafis ultra frame drop
+33,Cari laptop gaming dengan SSD besar untuk menyimpan banyak game.,gaming,cari laptop gaming ssd menyimpan game
+34,Saya butuh laptop dengan layar IPS resolusi tinggi untuk editing foto dan video.,multimedia,butuh laptop layar ips resolusi editing foto video
+35,"Cari laptop yang kuat menjalankan aplikasi seperti Adobe Photoshop, Illustrator, dan Premiere Pro",multimedia,cari laptop kuat menjalankan aplikasi adobe photoshop illustrator premiere pro
+36,Ingin laptop dengan GPU yang mendukung render animasi 3D dan desain grafis berat,multimedia,laptop gpu mendukung render animasi 3d desain grafis berat
+37,Laptop harus punya RAM minimal 16GB dan penyimpanan SSD untuk proses multitasking desain,multimedia,laptop ram minimal 16gb penyimpanan ssd proses multitasking desain
+38,Butuh laptop yang ringan tapi tetap mampu menjalankan software editing dan desain dengan lancar,multimedia,butuh laptop ringan menjalankan software editing desain lancar
+39,Saya ingin laptop dengan layar besar dan akurasi warna tinggi untuk keperluan desain grafis.,multimedia,laptop layar akurasi warna keperluan desain grafis
+40,Cari laptop dengan performa tinggi untuk menjalankan AutoCAD dan software desain arsitektur,multimedia,cari laptop performa menjalankan autocad software desain arsitektur
+41,Laptop yang saya butuhkan harus mampu menjalankan software grafis dan multimedia tanpa lag,multimedia,laptop butuhkan menjalankan software grafis multimedia lag
+42,Saya mencari laptop yang cocok untuk content creator dan desainer grafis profesional.,multimedia,mencari laptop cocok content creator desainer grafis profesional
+43,Laptop harus punya pendingin yang baik karena sering digunakan untuk editing dan rendering video,multimedia,laptop pendingin editing rendering video
+44,Saya butuh laptop ringan untuk mengetik dan presentasi di kantor.,office,butuh laptop ringan mengetik presentasi kantor
+45,Cari laptop yang cocok untuk menjalankan Microsoft Word dan Excel dengan lancar.,office,cari laptop cocok menjalankan microsoft word excel lancar
+46,Saya ingin laptop yang awet baterainya untuk bekerja seharian tanpa colokan.,office,laptop awet baterainya seharian colokan
+47,Laptop harus nyaman untuk mengetik dokumen dalam waktu lama.,office,laptop nyaman mengetik dokumen
+48,Butuh laptop dengan desain simpel dan mudah dibawa ke kantor.,office,butuh laptop desain simpel mudah dibawa kantor
+49,Saya mencari laptop yang bisa digunakan untuk meeting online dan kerja remote.,office,mencari laptop meeting online kerja remote
+50,Laptop harus punya webcam dan mikrofon yang bagus untuk rapat Zoom.,office,laptop webcam mikrofon bagus rapat zoom
+51,"Ingin laptop cepat untuk browsing, email, dan membuat laporan kerja.",office,laptop cepat browsing email laporan kerja
+52,Cari laptop yang cocok untuk pekerjaan administrasi dan input data.,office,cari laptop cocok pekerjaan administrasi input data
+53,Saya butuh laptop untuk membuat presentasi PowerPoint dan laporan bulanan,office,butuh laptop presentasi powerpoint laporan bulanan
+54,Ingin laptop murah tapi cukup untuk kerja kantor dan manajemen dokumen,office,laptop murah kerja kantor manajemen dokumen
+55,Saya cari laptop yang bisa buka banyak tab browser sekaligus tanpa lemot.,office,cari laptop buka tab browser lemot
+56,"Laptop ini digunakan untuk kerja kantoran biasa, tidak butuh spesifikasi tinggi.",office,laptop kerja kantoran butuh spesifikasi
+57,Laptop harus mendukung aplikasi seperti Google Docs dan Spreadsheet,office,laptop mendukung aplikasi google docs spreadsheet
+58,"Butuh laptop untuk kerja hybrid, kadang di rumah kadang di kantor",office,butuh laptop kerja hybrid kadang rumah kadang kantor
+59,Saya cari laptop yang cocok untuk keperluan administrasi dan database ringan.,office,cari laptop cocok keperluan administrasi database ringan
+60,Laptopnya harus punya port lengkap untuk koneksi ke proyektor dan printer.,office,laptopnya port lengkap koneksi proyektor printer
+61,Saya butuh laptop untuk mengetik skripsi dan tugas kuliah juga.,office,butuh laptop mengetik skripsi tugas kuliah
+62,Laptop ini akan dipakai untuk pekerjaan ringan seperti menulis dan laporan keuangan.,office,laptop dipakai pekerjaan ringan menulis laporan keuangan
+63,Ingin laptop kecil dan ringan yang bisa masuk tas kerja saya.,office,laptop ringan masuk tas kerja
+64,Saya butuh laptop yang kuat untuk coding dan menjalankan IDE seperti VS Code atau IntelliJ,programming,butuh laptop kuat coding menjalankan ide vs code intellij
+65,Cari laptop dengan RAM besar agar lancar saat compile program.,programming,cari laptop ram lancar compile program
+66,Saya ingin laptop untuk belajar pemrograman dan menjalankan banyak tab browser sekaligus.,programming,laptop belajar pemrograman menjalankan tab browser
+67,Laptop harus bisa menjalankan tools seperti Docker dan terminal dengan cepat.,programming,laptop menjalankan tools docker terminal cepat
+68,Saya butuh laptop yang bisa dipakai untuk membuat aplikasi Android dan web.,programming,butuh laptop dipakai aplikasi android web
+69,"Cari laptop yang cocok untuk pemrograman Python, Java, dan JavaScript.",programming,cari laptop cocok pemrograman python java javascript
+70,Laptop harus mendukung multitasking saat membuka code editor dan emulator,programming,laptop mendukung multitasking membuka code editor emulator
+71,"Saya ingin laptop untuk pengembangan perangkat lunak dengan spesifikasi yang stabil.""",programming,laptop pengembangan perangkat lunak spesifikasi stabil
+72,Laptop digunakan untuk belajar coding dan menjalankan server lokal,programming,laptop belajar coding menjalankan server lokal
+73,Saya butuh laptop untuk programming backend dan database seperti MySQL dan PostgreSQL.,programming,butuh laptop programming backend database mysql postgresql
+74,Cari laptop yang nyaman untuk mengetik kode dan debug aplikasi setiap hari.,programming,cari laptop nyaman mengetik kode debug aplikasi
+75,Laptop harus punya performa tinggi untuk menjalankan berbagai tools developer.,programming,laptop performa menjalankan tools developer
+76,Saya butuh laptop untuk belajar machine learning dan data science.,programming,butuh laptop belajar machine learning data science
+77,Laptop dipakai untuk membangun dan menguji website secara lokal.,programming,laptop dipakai membangun menguji website lokal
+78,Saya cari laptop untuk kebutuhan ngoding dan menjalankan virtual machine.,programming,cari laptop kebutuhan ngoding menjalankan virtual machine
+79,Saya butuh laptop yang tangguh dan ringan untuk bekerja saat bepergian.,workstation,butuh laptop tangguh ringan bepergian
+80,Cari laptop bisnis yang punya daya tahan baterai lama dan keyboard nyaman.,workstation,cari laptop bisnis daya tahan baterai keyboard nyaman
+81,"Laptop harus mendukung software bisnis seperti Excel, PowerPoint, dan aplikasi akuntansi.",workstation,laptop mendukung software bisnis excel powerpoint aplikasi akuntansi
+82,"""Saya ingin laptop dengan build quality premium dan desain profesional.""",workstation,laptop build quality premium desain profesional
+83,Butuh laptop untuk presentasi klien dan rapat online yang lancar.,workstation,butuh laptop presentasi klien rapat online lancar
+84,Cari laptop yang memiliki fitur keamanan seperti fingerprint dan TPM.,workstation,cari laptop memiliki fitur keamanan fingerprint tpm
+85,Saya ingin laptop bisnis dengan layar anti-glare dan port yang lengkap.,workstation,laptop bisnis layar antiglare port lengkap
+86,Saya butuh laptop untuk kerja remote dan conference call setiap hari.,workstation,butuh laptop kerja remote conference call
+87,"Cari laptop bisnis yang kuat namun tetap hemat daya dan tidak mudah panas.""",workstation,cari laptop bisnis kuat hemat daya mudah panas
+88,Saya butuh laptop yang tahan banting untuk pekerjaan di luar ruangan.,workstation,butuh laptop tahan banting pekerjaan ruangan
+89,Saya ingin laptop yang mudah dibawa untuk meeting dengan klien di berbagai tempat,workstation,laptop mudah dibawa meeting klien
+90,"Laptop akan digunakan untuk manajemen proyek, email, dan pengolahan dokumen penting.",workstation,laptop manajemen proyek email pengolahan dokumen
+91,Laptop harus punya daya tahan tinggi dan bisa digunakan selama jam kerja penuh.,workstation,laptop daya tahan jam kerja penuh
+92,Cari laptop bisnis yang support docking station dan dual monitor setup.,workstation,cari laptop bisnis support docking station dual monitor setup
+93,"Saya ingin laptop yang cocok untuk mengelola bisnis, membuat laporan keuangan, dan menganalisis data.""",workstation,laptop cocok mengelola bisnis laporan keuangan menganalisis data
+94,"Saya membutuhkan laptop yang ringan untuk kerja kantoran, browsing internet, dan desain grafis",office,membutuhkan laptop ringan kerja kantoran browsing internet desain grafis
+95,Saya membutuhkan laptop gaming yang kuat dengan kartu grafis khusus.,gaming,membutuhkan laptop gaming kuat kartu grafis khusus
+96,ingin laptop murah untuk mengetik dan menonton film,office,laptop murah mengetik menonton film
+97,membutuhkan laptop untuk programming dan aplikasi berat lainnya,programming,membutuhkan laptop programming aplikasi berat
+98,memerlukan laptop yang ringan dan tipis untuk dibawa ke kampus.,office,laptop ringan tipis dibawa kampus
+99,"Saya membutuhkan laptop yang dapat digunakan untuk bermain Valorant dan FIFA,",gaming,membutuhkan laptop bermain valorant fifa
+100,Saya juga ingin laptop yang dapat digunakan untuk skripsi dan mengolah data Excel.,office,laptop skripsi mengolah data excel
+101,Cari laptop yang cocok untuk desain UI/UX dan edit gambar.,multimedia,cari laptop cocok desain uiux edit gambar
+102,Saya ingin laptop yang dapat digunakan untuk bermain game berat.,gaming,laptop bermain game berat
+103,Saya membutuhkan laptop untuk bermain game berat.,gaming,membutuhkan laptop bermain game berat
+104,memerlukan perangkat yang sesuai untuk desain dan editing video,multimedia,perangkat sesuai desain editing video
+105,"Saya butuh laptop yang ringan dan ringkas untuk mobilitas tinggi, ideal untuk mengetik dokumen dan browsing.",office,butuh laptop ringan ringkas mobilitas ideal mengetik dokumen browsing
+106,Saya mencari laptop yang bisa menjalankan Microsoft Office dan aplikasi administrasi tanpa hambatan.,office,mencari laptop menjalankan microsoft office aplikasi administrasi hambatan
+107,Saya butuh laptop dengan baterai tahan lama untuk kerja seharian tanpa harus sering ngecas.,office,butuh laptop baterai tahan kerja seharian ngecas
+108,Saya ingin laptop yang cocok untuk rapat daring lewat Zoom dan Google Meet dengan kamera dan mikrofon yang bagus.,office,laptop cocok rapat daring zoom google meet kamera mikrofon bagus
+109,Saya butuh laptop yang mampu membuka banyak tab browser dan Excel tanpa lemot.,office,butuh laptop membuka tab browser excel lemot
+110,Saya mencari laptop dengan layar nyaman untuk membaca dan menulis dokumen panjang.,office,mencari laptop layar nyaman membaca menulis dokumen
+111,Saya ingin keyboard yang enak buat mengetik cepat dan nyaman untuk jari.,office,keyboard enak mengetik cepat nyaman jari
+112,Saya memerlukan laptop yang bisa dibawa ke kantor dengan mudah dan tidak berat.,office,laptop dibawa kantor mudah berat
+113,Saya butuh laptop yang bisa dihubungkan ke printer dan proyektor untuk kerja presentasi.,office,butuh laptop dihubungkan printer proyektor kerja presentasi
+114,Saya cari laptop murah tapi cukup mumpuni untuk tugas kantor harian.,office,cari laptop murah mumpuni tugas kantor harian
+115,Saya ingin laptop yang dirancang untuk menjalankan game AAA dengan pengaturan grafis tinggi secara lancar.,gaming,laptop dirancang menjalankan game aaa pengaturan grafis lancar
+116,Saya butuh laptop dengan kartu grafis dedicated seperti RTX buat main game berat.,gaming,butuh laptop kartu grafis dedicated rtx main game berat
+117,Saya cari laptop dengan layar refresh rate tinggi supaya main game FPS jadi lebih smooth.,gaming,cari laptop layar refresh rate main game fps smooth
+118,Saya butuh prosesor kencang yang bisa menjalankan game dan streaming bersamaan.,gaming,butuh prosesor kencang menjalankan game streaming bersamaan
+119,Saya ingin laptop dengan sistem pendingin bagus supaya tidak cepat panas saat main game.,gaming,laptop sistem pendingin bagus cepat panas main game
+120,Saya butuh RAM besar untuk main game sambil buka aplikasi lain.,gaming,butuh ram main game buka aplikasi
+121,Saya cari laptop dengan SSD cepat agar loading game lebih singkat.,gaming,cari laptop ssd cepat loading game singkat
+122,Saya ingin keyboard dengan lampu RGB dan respons cepat buat main game kompetitif.,gaming,keyboard lampu rgb respons cepat main game kompetitif
+123,Saya butuh audio yang powerful supaya pengalaman gaming lebih imersif.,gaming,butuh audio powerful pengalaman gaming imersif
+124,Saya suka desain laptop gaming yang keren dan kuat.,gaming,suka desain laptop gaming keren kuat
+125,Saya butuh laptop yang memiliki layar IPS/AMOLED berkualitas tinggi untuk akurasi warna maksimal saat editing.,multimedia,butuh laptop memiliki layar ipsamoled berkualitas akurasi warna maksimal editing
+126,Saya ingin laptop yang nyaman untuk nonton film dan streaming video dengan kualitas tinggi.,multimedia,laptop nyaman nonton film streaming video kualitas
+127,Saya cari laptop yang bisa menjalankan Adobe Premiere dan Photoshop dengan lancar.,multimedia,cari laptop menjalankan adobe premiere photoshop lancar
+128,Saya ingin speaker laptop yang jernih dan mendukung Dolby Atmos.,multimedia,speaker laptop jernih mendukung dolby atmos
+129,Saya butuh kartu grafis yang cukup kuat untuk rendering video.,multimedia,butuh kartu grafis kuat rendering video
+130,Saya ingin laptop yang cocok buat bikin konten YouTube dan editing vlog.,multimedia,laptop cocok bikin konten youtube editing vlog
+131,Saya cari laptop dengan kapasitas penyimpanan besar untuk menyimpan banyak file multimedia.,multimedia,cari laptop kapasitas penyimpanan menyimpan file multimedia
+132,"Saya ingin laptop yang ringan dan stylish, cocok dibawa buat kerja kreatif di luar.",workstation,laptop ringan stylish cocok dibawa kerja kreatif
+133,Saya butuh laptop layar lebar agar lebih leluasa waktu edit video atau gambar.,multimedia,butuh laptop layar lebar leluasa edit video gambar
+134,Saya butuh laptop dengan port lengkap untuk transfer file dari kamera dan card reader.,workstation,butuh laptop port lengkap transfer file kamera card reader
+135,Saya butuh laptop yang bisa menjalankan IDE seperti VS Code dan Android Studio dengan lancar,programming,butuh laptop menjalankan ide vs code android studio lancar
+136,"Saya ingin laptop yang bisa multitasking, buka banyak tab coding dan browser sekaligus.",programming,laptop multitasking buka tab coding browser
+137,Saya cari laptop dengan prosesor cepat agar compile code tidak makan waktu lama.,programming,cari laptop prosesor cepat compile code makan
+138,Saya butuh RAM minimal 16GB buat kerja programming dan jalanin emulator.,programming,butuh ram minimal 16gb kerja programming jalanin emulator
+139,Saya ingin keyboard yang nyaman dan backlit biar bisa kerja malam hari.,office,keyboard nyaman backlit biar kerja malam
+140,Saya butuh laptop yang bisa dihubungkan ke dua monitor tambahan.,workstation,butuh laptop dihubungkan monitor tambahan
+141,Saya cari laptop dengan baterai awet untuk coding di luar ruangan.,programming,cari laptop baterai awet coding ruangan
+142,Saya ingin laptop dengan SSD supaya booting dan load project cepat.,programming,laptop ssd booting load project cepat
+143,Saya butuh laptop yang bisa diinstal Linux buat pengembangan software.,programming,butuh laptop diinstal linux pengembangan software
+144,Saya mahasiswa TI yang butuh laptop tangguh untuk belajar dan bikin aplikasi.,programming,mahasiswa ti butuh laptop tangguh belajar bikin aplikasi
+145,Saya butuh laptop yang bisa menjalankan software berat seperti AutoCAD dan Revit tanpa lag.,workstation,butuh laptop menjalankan software berat autocad revit lag
+146,Saya cari laptop dengan GPU profesional untuk keperluan desain teknik.,workstation,cari laptop gpu profesional keperluan desain teknik
+147,Saya ingin prosesor workstation yang kuat buat kerja modeling dan simulasi.,workstation,prosesor workstation kuat kerja modeling simulasi
+148,Saya butuh RAM besar minimal 32GB untuk multitasking berat.,workstation,butuh ram minimal 32gb multitasking berat
+149,Saya ingin laptop yang aman dengan fitur fingerprint dan enkripsi data.,workstation,laptop aman fitur fingerprint enkripsi data
+150,Saya butuh port lengkap termasuk LAN dan Thunderbolt untuk kerja profesional.,workstation,butuh port lengkap lan thunderbolt kerja profesional
+151,Saya kerja dengan file besar seperti proyek arsitektur dan butuh laptop yang sanggup.,workstation,kerja file proyek arsitektur butuh laptop sanggup
+152,Saya cari laptop dengan layar resolusi tinggi untuk keperluan desain.,multimedia,cari laptop layar resolusi keperluan desain
+153,Saya ingin laptop dengan build quality tangguh untuk kerja lapangan.,workstation,laptop build quality tangguh kerja lapangan
+154,Saya butuh laptop profesional untuk kerja enterprise dan proyek engineering.,workstation,butuh laptop profesional kerja enterprise proyek engineering
+155,"Saya membutuhkan laptop untuk mengerjakan tugas kantor seperti membuat laporan, presentasi, dan mengelola data Excel.",office,membutuhkan laptop tugas kantor laporan presentasi mengelola data excel
+156,"Laptop yang saya cari digunakan untuk mengetik dokumen, membuat surat, dan menjalankan Microsoft Office.",office,laptop cari mengetik dokumen surat menjalankan microsoft office
+157,Saya ingin laptop yang ringan dan hemat daya untuk keperluan kerja administratif sehari-hari.,office,laptop ringan hemat daya keperluan kerja administratif seharihari
+158,"Butuh laptop yang bisa digunakan untuk menulis, membuat presentasi PowerPoint, dan membuka beberapa tab browser.",office,butuh laptop menulis presentasi powerpoint membuka tab browser
+159,"Laptop digunakan untuk keperluan rapat online, mengetik laporan, serta mengelola file dokumen.",office,laptop keperluan rapat online mengetik laporan mengelola file dokumen
+160,"Saya memerlukan laptop yang bisa menjalankan aplikasi Office seperti Word, Excel, dan Outlook dengan lancar.",office,laptop menjalankan aplikasi office word excel outlook lancar
+161,"Laptop digunakan untuk pekerjaan kantor jarak jauh, seperti membuat dokumen, mengedit file PDF, dan mengirim email.",office,laptop pekerjaan kantor jarak dokumen mengedit file pdf mengirim email
+162,"Saya ingin laptop dengan performa stabil untuk aktivitas administrasi, browsing, dan komunikasi melalui video call.",office,laptop performa stabil aktivitas administrasi browsing komunikasi video call
+163,"Butuh laptop untuk penggunaan dasar seperti mengetik, membuat tabel data, dan mengakses aplikasi berbasis web.",office,butuh laptop penggunaan dasar mengetik tabel data mengakses aplikasi berbasis web
+164,"Laptop digunakan untuk kegiatan perkantoran ringan, menyusun laporan keuangan, dan mengikuti meeting online.",office,laptop kegiatan perkantoran ringan menyusun laporan keuangan mengikuti meeting online
+165,Saya membutuhkan laptop untuk menulis kode dan menjalankan aplikasi pemrograman seperti Visual Studio Code dan PyCharm.,programming,membutuhkan laptop menulis kode menjalankan aplikasi pemrograman visual studio code pycharm
+166,"Laptop digunakan untuk belajar pemrograman web menggunakan HTML, CSS, dan JavaScript.",programming,laptop belajar pemrograman web html css javascript
+167,Saya mencari laptop yang bisa menjalankan software seperti Android Studio dan XAMPP tanpa lag.,programming,mencari laptop menjalankan software android studio xampp lag
+168,Butuh laptop yang mendukung multitasking saat membuka banyak tab browser dan IDE secara bersamaan.,programming,butuh laptop mendukung multitasking membuka tab browser ide bersamaan
+169,Saya ingin laptop untuk membuat aplikasi dengan bahasa Python dan melakukan debugging.,programming,laptop aplikasi bahasa python debugging
+170,"Laptop digunakan untuk menulis kode program C++, Java, dan Python secara intensif",programming,laptop menulis kode program c java python intensif
+171,Saya memerlukan laptop dengan performa stabil untuk membuat proyek berbasis web dan API.,programming,laptop performa stabil proyek berbasis web api
+172,Butuh laptop yang mampu menjalankan framework seperti React dan Laravel dengan lancar.,programming,butuh laptop menjalankan framework react laravel lancar
+173,Saya membutuhkan laptop untuk membuat aplikasi Android dan melakukan kompilasi kode yang cukup berat.,programming,membutuhkan laptop aplikasi android kompilasi kode berat
+174,"Laptop digunakan untuk keperluan coding, menjalankan server lokal, dan menguji aplikasi.",programming,laptop keperluan coding menjalankan server lokal menguji aplikasi
+175,Saya mencari laptop untuk kegiatan kuliah di bidang informatika yang sering menggunakan software pemrograman.,programming,mencari laptop kegiatan kuliah bidang informatika software pemrograman
+176,Butuh laptop untuk mengembangkan sistem berbasis database dan melakukan query SQL.,programming,butuh laptop mengembangkan sistem berbasis database query sql
+177,Saya memerlukan laptop untuk membuat dan menguji algoritma machine learning dengan Python.,programming,laptop menguji algoritma machine learning python
+178,"Laptop digunakan untuk menjalankan compiler dan tools seperti Git, Docker, dan Node.js.",programming,laptop menjalankan compiler tools git docker nodejs
+179,Saya membutuhkan laptop dengan RAM besar agar lancar menjalankan IDE dan emulator Android.,programming,membutuhkan laptop ram lancar menjalankan ide emulator android
+180,Laptop digunakan untuk proyek pengembangan web full stack dengan Node.js dan React.,programming,laptop proyek pengembangan web full stack nodejs react
+181,Saya mencari laptop untuk menulis skrip automasi dan memproses data menggunakan Python.,programming,mencari laptop menulis skrip automasi memproses data python
+182,Butuh laptop yang bisa digunakan untuk coding dan belajar pengembangan game sederhana.,programming,butuh laptop coding belajar pengembangan game sederhana
+183,Saya membutuhkan laptop untuk mengembangkan aplikasi desktop berbasis Java.,programming,membutuhkan laptop mengembangkan aplikasi desktop berbasis java
+184,Laptop digunakan untuk mengerjakan proyek software engineering dan testing aplikasi.,programming,laptop proyek software engineering testing aplikasi
+185,Saya mencari laptop yang mendukung virtual machine untuk belajar cloud computing dan DevOps.,programming,mencari laptop mendukung virtual machine belajar cloud computing devops
+186,Butuh laptop untuk menjalankan lingkungan pengembangan seperti Jupyter Notebook dan TensorFlow.,programming,butuh laptop menjalankan lingkungan pengembangan jupyter notebook tensorflow
+187,Saya memerlukan laptop untuk membuat dan menjalankan program simulasi sederhana menggunakan bahasa pemrograman.,programming,laptop menjalankan program simulasi sederhana bahasa pemrograman
+188,Saya membutuhkan laptop dengan performa tinggi untuk menjalankan software desain 3D seperti AutoCAD dan SolidWorks.,workstation,membutuhkan laptop performa menjalankan software desain 3d autocad solidworks
+189,Laptop digunakan untuk melakukan simulasi teknik yang membutuhkan prosesor dan RAM besar.,workstation,laptop simulasi teknik membutuhkan prosesor ram
+190,Saya mencari laptop yang mampu menjalankan aplikasi pemodelan dan rendering 3D tanpa lag.,workstation,mencari laptop menjalankan aplikasi pemodelan rendering 3d lag
+191,Butuh laptop workstation untuk melakukan analisis data besar menggunakan MATLAB dan Python.,workstation,butuh laptop workstation analisis data matlab python
+192,Saya memerlukan laptop yang kuat untuk menjalankan software desain arsitektur seperti Revit dan SketchUp.,workstation,laptop kuat menjalankan software desain arsitektur revit sketchup
+193,Laptop digunakan untuk pekerjaan profesional yang membutuhkan GPU kuat seperti rendering video 4K dan simulasi.,workstation,laptop pekerjaan profesional membutuhkan gpu kuat rendering video 4k simulasi
+194,Saya ingin laptop dengan spesifikasi tinggi untuk menjalankan beberapa software desain secara bersamaan.,workstation,laptop spesifikasi menjalankan software desain bersamaan
+195,"Butuh laptop yang dapat menangani multitasking berat seperti desain grafis, simulasi, dan virtualisasi.",workstation,butuh laptop menangani multitasking berat desain grafis simulasi virtualisasi
+196,Saya membutuhkan laptop untuk membuat model 3D dan melakukan rendering animasi kompleks.,workstation,membutuhkan laptop model 3d rendering animasi kompleks
+197,Laptop digunakan untuk pekerjaan CAD/CAM yang membutuhkan akurasi dan performa tinggi.,workstation,laptop pekerjaan cadcam membutuhkan akurasi performa
+198,Saya mencari laptop workstation untuk mendukung pekerjaan desain mesin dan arsitektur.,workstation,mencari laptop workstation mendukung pekerjaan desain mesin arsitektur
+199,Butuh laptop yang kuat untuk komputasi ilmiah dan perhitungan numerik intensif.,workstation,butuh laptop kuat komputasi ilmiah perhitungan numerik intensif
+200,"Saya memerlukan laptop untuk menjalankan software analisis data besar seperti SPSS, R, dan Tableau.",workstation,laptop menjalankan software analisis data spss r tableau
+201,Laptop digunakan untuk pekerjaan desain produk dan simulasi mekanika fluida.,workstation,laptop pekerjaan desain produk simulasi mekanika fluida
+202,Saya membutuhkan laptop workstation dengan kartu grafis profesional seperti NVIDIA Quadro.,workstation,membutuhkan laptop workstation kartu grafis profesional nvidia quadro
+203,Butuh laptop yang dapat menjalankan rendering 3D dan editing CAD tanpa mengalami penurunan performa.,workstation,butuh laptop menjalankan rendering 3d editing cad mengalami penurunan performa
+204,Saya mencari laptop untuk pekerjaan teknik sipil dan analisis struktur menggunakan software khusus.,workstation,mencari laptop pekerjaan teknik sipil analisis struktur software khusus
+205,Laptop digunakan untuk pemrosesan visualisasi data kompleks dan pembuatan model simulasi.,workstation,laptop pemrosesan visualisasi data kompleks pembuatan model simulasi
+206,Saya membutuhkan laptop dengan kapasitas penyimpanan besar untuk menyimpan file desain berukuran besar.,workstation,membutuhkan laptop kapasitas penyimpanan menyimpan file desain berukuran
+207,"Butuh laptop yang stabil untuk komputasi berat di bidang teknik, arsitektur, dan analisis ilmiah.",workstation,butuh laptop stabil komputasi berat bidang teknik arsitektur analisis ilmiah
